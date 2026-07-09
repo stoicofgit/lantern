@@ -12,6 +12,6 @@ python3 -m http.server 8765
 ```
 
 ## Deploy
-Push to `main` on `github.com/cwitherow/lantern`; Vercel builds the static `index.html` automatically.
+Push to `main` on `github.com/stoicofgit/lantern`; Vercel builds the static `index.html` automatically.
 
 > Deploy key: `~/.ssh/lantern-deploy` (repo-scoped). Remote uses the `github-lantern` SSH alias.
